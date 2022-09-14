@@ -5,6 +5,23 @@ I have also made a full notebook that is provided in that notebook
 I have also doing good EDA by using various plotting libraries
 I have got an good accuracy by using the randomForest for the regression
 ### The code Respo's
-'''
-CarProject/
-'''
+    CarProject/
+    |-template/index.html
+    |
+    |-Car Details.csv
+    |
+    |-Untitled.ipynb
+    |
+    |-car data.csv
+    | 
+    |-app.py
+    |
+    |-random-forest-regression.pkl
+    |
+    |-requirements.txt
+A brief Explanation about each file is-
+* `index.html`:This File contain all your frontend html code that i used for that site.
+*  `Car detais.csv`:This file contain all info your data that am using to making a car price predictor project and using that am using all the detail about the car using that data 
+    
+    
+
